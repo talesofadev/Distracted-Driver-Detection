@@ -10,6 +10,7 @@ tensorflow = "*"
 ipykernel = "*"
 matplotlib = "*"
 opencv-python = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.7"
